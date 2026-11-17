@@ -4,7 +4,7 @@
 
 \<p align="center">   Passionate about building modern, scalable and user-friendly web applications. \</p>
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/probirghoshdev/](https://www.linkedin.com/in/probirghoshdev/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="[https://github.com/probirghosh45](https://github.com/probirghosh45)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)" />   \</a> \</p>
+\<p align="center">   \<a href="[https://www.linkedin.com/in/probirghoshdev/](https://www.linkedin.com/in/probirghoshdev/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />   \</a>   \<a href="[https://github.com/probirghosh45](https://github.com/probirghosh45)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)" alt="GitHub" />   \</a> \</p>
 
 ---
 
@@ -23,27 +23,29 @@
 
 ### Programming Languages
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=js,ts](https://skillicons.dev/icons?i=js,ts)" /> \</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=js,ts](https://skillicons.dev/icons?i=js,ts)" alt="JavaScript, TypeScript" />
+\</p>
 
 ### Frontend Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)" /> \</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)" alt="HTML, CSS, Tailwind CSS, React, Next.js" /> \</p>
 
 ### Backend Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" /> \</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" alt="Node.js, Express.js" />
+\</p>
 
 ### Database & ORM
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,prisma](https://skillicons.dev/icons?i=postgres,mongodb,prisma)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,prisma](https://skillicons.dev/icons?i=postgres,mongodb,prisma)" alt="PostgreSQL, MongoDB, Prisma" />
 \</p>
 
 ### Development Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" />
-\</p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" alt="Git, GitHub, VS Code, Postman" /> \</p>
 
 ---
 
@@ -63,7 +65,7 @@ A backend application focused on healthcare management, authentication and role-
 
 **Technologies:** TypeScript, Express.js, Prisma, PostgreSQL
 
-[View Repository](YOUR_HEALTHCARE_REPOSITORY_URL)
+\<!-- Add your actual healthcare repository URL here after publishing it. -->
 
 ### 3. More Projects
 
@@ -75,15 +77,15 @@ Explore my other repositories:
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=probirghosh45&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=probirghosh45\&show_icons=true\&theme=tokyonight\&hide_border=true)" />   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=probirghosh45&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=probirghosh45\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=probirghosh45&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=probirghosh45\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub Statistics" />   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=probirghosh45&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=probirghosh45\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" /> \</p>
 
-\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=probirghosh45&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=probirghosh45\&theme=tokyonight\&hide_border=true)" /> \</p>
+\<p align="center">   \<img width="70%" src="[https://streak-stats.demolab.com?user=probirghosh45&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=probirghosh45\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" /> \</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=probirghosh45&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=probirghosh45\&theme=tokyo-night\&hide_border=true)" width="100%" /> \</p>
+\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=probirghosh45&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=probirghosh45\&theme=tokyo-night\&hide_border=true)" width="100%" alt="Contribution Graph" /> \</p>
 
 ---
 
@@ -99,6 +101,6 @@ Explore my other repositories:
 
 ## 🤝 Connect With Me
 
-\<p align="left">   \<a href="[https://www.linkedin.com/in/probirghoshdev/](https://www.linkedin.com/in/probirghoshdev/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Probir%20Ghosh-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Probir%20Ghosh-blue?style=for-the-badge\&logo=linkedin)" />   \</a> \</p>
+\<p align="center">   \<a href="[https://www.linkedin.com/in/probirghoshdev/](https://www.linkedin.com/in/probirghoshdev/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Probir%20Ghosh-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Probir%20Ghosh-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />   \</a> \</p>
 
 \<p align="center">   \<i>Building, Learning and Growing Every Day.\</i> \</p>
