@@ -1,11 +1,5 @@
-<h1 align="center">Probir Ghosh</h1>
-
 <p align="center">
-  <b>Full-Stack Web Developer</b> &nbsp;·&nbsp; TypeScript · React · Node.js · PostgreSQL
-</p>
-
-<p align="center">
-  <i>Former Web Instructor at Programming Hero — 3+ years in web development education, now building full-stack products.</i>
+  <img src="assets/github-profile-banner.png" alt="Probir Ghosh — Full-Stack Web Developer" width="100%" />
 </p>
 
 <p align="center">
