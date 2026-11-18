@@ -40,36 +40,31 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 ---
 
 <!--- technology --->
-## Technical Skills
+## Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="30" height="30" alt="Coding animation" />
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript, TypeScript" />
+<p align="center">
+  <strong>Languages</strong><br />
+  <img src="assets/tech/js.png" width="60" height="60" alt="JavaScript" />&ensp;&ensp;<img src="assets/tech/ts.png" width="60" height="60" alt="TypeScript" />&ensp;&ensp;<img src="assets/tech/html.png" width="60" height="60" alt="HTML5" />&ensp;&ensp;<img src="assets/tech/css.png" width="60" height="60" alt="CSS3" />
 </p>
 
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind CSS, React, Next.js" />
+<p align="center">
+  <strong>Frontend</strong><br />
+  <img src="assets/tech/react.png" width="60" height="60" alt="React" />&ensp;&ensp;<img src="assets/tech/nextjs.png" width="60" height="60" alt="Next.js" />&ensp;&ensp;<img src="assets/tech/tailwind.png" width="60" height="60" alt="Tailwind CSS" />
 </p>
 
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" />
+<p align="center">
+  <strong>Backend</strong><br />
+  <img src="assets/tech/nodejs.png" width="60" height="60" alt="Node.js" />&ensp;&ensp;<img src="assets/tech/express.png" width="60" height="60" alt="Express.js" />
 </p>
 
-**Database &amp; ORM**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="PostgreSQL, MongoDB, Prisma" />
+<p align="center">
+  <strong>Database &amp; ORM</strong><br />
+  <img src="assets/tech/postgres.png" width="60" height="60" alt="PostgreSQL" />&ensp;&ensp;<img src="assets/tech/mongodb.png" width="60" height="60" alt="MongoDB" />&ensp;&ensp;<img src="assets/tech/prisma.png" width="60" height="60" alt="Prisma ORM" />
 </p>
 
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
+<p align="center">
+  <strong>Tools &amp; Platforms</strong><br />
+  <img src="assets/tech/git.png" width="60" height="60" alt="Git" />&ensp;&ensp;<img src="assets/tech/github.png" width="60" height="60" alt="GitHub" />&ensp;&ensp;<img src="assets/tech/vscode.png" width="60" height="60" alt="Visual Studio Code" />&ensp;&ensp;<img src="assets/tech/postman.png" width="60" height="60" alt="Postman" />
 </p>
 
 ---
