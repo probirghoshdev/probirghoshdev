@@ -116,11 +116,11 @@ A RESTful API for a ride booking platform supporting riders, drivers, and admins
 
 ---
 
-<!--- streak --->
-## GitHub Streak
+<!--- current stats --->
+## Current Stats
 
 <p align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=probirghoshdev&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+  <img width="62%" src="https://streak-stats.demolab.com?user=probirghoshdev&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakNum=A855F7&amp;currStreakLabel=A855F7&amp;sideNums=22D3EE&amp;sideLabels=22D3EE&amp;dates=8FB0C6&amp;text=FFFFFF" alt="Current stats: total contributions, current streak and longest streak" />
 </p>
 
 ---
