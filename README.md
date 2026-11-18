@@ -6,14 +6,14 @@
 ---
 
 <!--- introduction --->
-## Introduction
+<h2 align="center">Hi <img src="assets/hi.gif" width="34" height="34" alt="Waving hand" />, I'm Probir Ghosh</h2>
 
 I'm **Probir Ghosh**, a full-stack web developer focused on building complete applications with TypeScript — from PostgreSQL data models and REST APIs to the interfaces that use them. Before moving into full-time development, I spent 3+ years teaching web development at Programming Hero, which is where I learned to write code that other people can read, review, and maintain.
 
 ---
 
 <!--- about --->
-## About Me
+## About Me <img src="assets/about.gif" width="28" height="28" alt="Animated accent" />
 
 - **Current focus** — Full-stack web development with TypeScript across client and server.
 - **Background** — Former Web Instructor at Programming Hero with 3+ years in web development education.
