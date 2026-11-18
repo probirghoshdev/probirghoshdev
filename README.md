@@ -6,21 +6,21 @@
 ---
 
 <!--- introduction --->
-<h1 align="center">Hi <img src="assets/hi.gif" width="56" height="56" alt="Waving hand" />, I'm Probir Ghosh</h1>
+<h1 align="center">Hi <img src="assets/hi.gif" width="48" height="48" alt="Waving hand" />, I'm Probir Ghosh</h1>
 
-I'm **Probir Ghosh**, a full-stack web developer focused on building complete applications with TypeScript — from PostgreSQL data models and REST APIs to the interfaces that use them. Before moving into full-time development, I spent 3+ years teaching web development at Programming Hero, which is where I learned to write code that other people can read, review, and maintain.
+I'm a **Full-Stack Web Developer** focused on building complete applications with TypeScript, React, Next.js, Node.js, and PostgreSQL. I also bring 3+ years of web development teaching experience from Programming Hero.
 
 ---
 
 <!--- about --->
-## About Me <img src="assets/about.gif" width="30" height="30" alt="Developer avatar" />
+## About Me <img src="assets/about.gif" width="28" height="28" alt="Developer avatar" />
 
-<img align="right" width="42%" src="assets/about-illustration.svg" alt="Abstract developer illustration" />
+<img align="right" width="38%" src="assets/about-illustration.svg" alt="Abstract developer illustration" />
 
-- 🎯 **Current focus** — Full-stack web development with TypeScript across client and server.
-- 🎓 **Background** — Former Web Development Instructor at [Programming Hero](https://www.programming-hero.com/) with 3+ years in web development education.
-- 🛠️ **Backend interests** — REST API design, authentication, role-based access control, and relational data modeling.
-- 💡 **How I work** — Clear project structure, readable code, and a strong preference for understanding a problem before writing a solution.
+- **Development Focus** — Full-stack application development with TypeScript.
+- **Teaching Background** — 3+ years of web development instruction at [Programming Hero](https://www.programming-hero.com/).
+- **Backend Interests** — REST APIs, authentication, authorization, and relational database design.
+- **Engineering Approach** — Clean architecture, readable code, and maintainable solutions.
 
 ---
 
