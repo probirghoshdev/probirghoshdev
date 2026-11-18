@@ -1,6 +1,6 @@
 <!--- hero banner --->
 <p align="center">
-  <img src="assets/github-profile-banner.png" alt="Probir Ghosh — Full-Stack Web Developer" width="100%" />
+  <img src="assets/github-profile-banner.gif" alt="Probir Ghosh — Full-Stack Web Developer" width="100%" />
 </p>
 
 ---
