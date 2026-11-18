@@ -25,15 +25,15 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 ---
 
 <!--- socials --->
-## Connect
+## Connect With Me <img src="assets/connect.gif" width="26" height="26" alt="Animated link icon" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/probirghoshdev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
+  <a href="https://github.com/probirghoshdev" target="_blank" rel="noreferrer">
+    <img src="assets/contact-github.png" width="280" height="96" alt="GitHub — github.com/probirghoshdev" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/probirghoshdev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" />
+  <a href="https://www.linkedin.com/in/probirghoshdev/" target="_blank" rel="noreferrer">
+    <img src="assets/contact-linkedin.png" width="280" height="96" alt="LinkedIn — linkedin.com/in/probirghoshdev" />
   </a>
 </p>
 
