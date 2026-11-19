@@ -84,7 +84,7 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 ### GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/22d3ee/probirghoshdev" alt="Probir Ghosh's GitHub contribution heatmap" />
+  <img width="100%" src="assets/contribution-snake.svg" alt="Animated GitHub contribution grid with a moving snake" />
 </p>
 
 ### GitHub Statistics
