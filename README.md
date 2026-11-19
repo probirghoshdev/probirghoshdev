@@ -69,6 +69,15 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 
 ---
 
+<!--- current stats --->
+## Current Stats
+
+<p align="center">
+  <img width="62%" src="https://streak-stats.demolab.com?user=probirghoshdev&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakNum=A855F7&amp;currStreakLabel=A855F7&amp;sideNums=22D3EE&amp;sideLabels=22D3EE&amp;dates=8FB0C6&amp;text=FFFFFF" alt="Current stats: total contributions, current streak and longest streak" />
+</p>
+
+---
+
 <!--- featured projects --->
 ## Featured Projects
 
@@ -112,15 +121,6 @@ A RESTful API for a ride booking platform supporting riders, drivers, and admins
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=probirghoshdev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probirghoshdev&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
-</p>
-
----
-
-<!--- current stats --->
-## Current Stats
-
-<p align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=probirghoshdev&amp;hide_border=true&amp;background=0D1117&amp;stroke=0D1117&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakNum=A855F7&amp;currStreakLabel=A855F7&amp;sideNums=22D3EE&amp;sideLabels=22D3EE&amp;dates=8FB0C6&amp;text=FFFFFF" alt="Current stats: total contributions, current streak and longest streak" />
 </p>
 
 ---
