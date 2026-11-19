@@ -1,6 +1,6 @@
 <!--- hero banner --->
 <p align="center">
-  <img src="assets/github-profile-banner.gif" alt="Probir Ghosh — Full-Stack Web Developer" width="100%" />
+  <img src="assets/github-profile-banner.gif" alt="Probir Ghosh â€” Full-Stack Web Developer" width="100%" />
 </p>
 
 ---
@@ -17,10 +17,10 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 
 <img align="right" width="38%" src="assets/about-illustration.svg" alt="Abstract developer illustration" />
 
-- **Development Focus** — Full-stack application development with TypeScript.
-- **Teaching Background** — 3+ years of web development instruction at [Programming Hero](https://www.programming-hero.com/).
-- **Backend Interests** — REST APIs, authentication, authorization, and relational database design.
-- **Engineering Approach** — Clean architecture, readable code, and maintainable solutions.
+- **Development Focus** â€” Full-stack application development with TypeScript.
+- **Teaching Background** â€” 3+ years of web development instruction at [Programming Hero](https://www.programming-hero.com/).
+- **Backend Interests** â€” REST APIs, authentication, authorization, and relational database design.
+- **Engineering Approach** â€” Clean architecture, readable code, and maintainable solutions.
 
 ---
 
@@ -29,11 +29,11 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 
 <p align="center">
   <a href="https://github.com/probirghoshdev" target="_blank" rel="noreferrer">
-    <img src="assets/contact-github.png" width="280" height="96" alt="GitHub — github.com/probirghoshdev" />
+    <img src="assets/contact-github.png" width="280" height="96" alt="GitHub â€” github.com/probirghoshdev" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/probirghoshdev/" target="_blank" rel="noreferrer">
-    <img src="assets/contact-linkedin.png" width="280" height="96" alt="LinkedIn — linkedin.com/in/probirghoshdev" />
+    <img src="assets/contact-linkedin.png" width="280" height="96" alt="LinkedIn â€” linkedin.com/in/probirghoshdev" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 ### GitHub Contributions
 
 <p align="center">
-  <img width="100%" src="assets/contribution-snake.svg" alt="Animated GitHub contribution grid with a moving snake" />
+  <img width="100%" src="assets/contribution-snake.gif" alt="Animated GitHub contribution grid with a moving snake" />
 </p>
 
 ### GitHub Statistics
@@ -99,7 +99,7 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 
 ### Prisma Blog API
 
-**Stack:** TypeScript · Express · Prisma · PostgreSQL · Better Auth
+**Stack:** TypeScript Â· Express Â· Prisma Â· PostgreSQL Â· Better Auth
 
 A TypeScript REST API for a blogging platform with posts, comments, and session-based authentication. Built with Express, Prisma, and PostgreSQL, including email support via Nodemailer.
 
@@ -107,7 +107,7 @@ A TypeScript REST API for a blogging platform with posts, comments, and session-
 
 ### Next.js Blog Client
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · shadcn/ui
+**Stack:** Next.js Â· TypeScript Â· Tailwind CSS Â· shadcn/ui
 
 A Next.js App Router project written in TypeScript, using Tailwind CSS and shadcn/ui for the component layer.
 
@@ -115,19 +115,19 @@ A Next.js App Router project written in TypeScript, using Tailwind CSS and shadc
 
 ### Healthcare Management Backend
 
-**Stack:** TypeScript · Express · Prisma · PostgreSQL · Better Auth
+**Stack:** TypeScript Â· Express Â· Prisma Â· PostgreSQL Â· Better Auth
 
-A backend for a healthcare management platform, structured around a route–controller–service architecture with Prisma and PostgreSQL.
+A backend for a healthcare management platform, structured around a routeâ€“controllerâ€“service architecture with Prisma and PostgreSQL.
 
 [Repository](https://github.com/probirghoshdev/ph-health-care-backend)
 
 ### Ride Booking API
 
-**Stack:** Node.js · Express · TypeScript · MongoDB · Mongoose · JWT · Zod
+**Stack:** Node.js Â· Express Â· TypeScript Â· MongoDB Â· Mongoose Â· JWT Â· Zod
 
 A RESTful API for a ride booking platform supporting riders, drivers, and admins, with role-based access control and the full ride lifecycle.
 
-[Repository](https://github.com/probirghoshdev/goride-backend) &nbsp;·&nbsp; [Live API](https://a-5-gamma.vercel.app)
+[Repository](https://github.com/probirghoshdev/goride-backend) &nbsp;Â·&nbsp; [Live API](https://a-5-gamma.vercel.app)
 
 ---
 
@@ -145,7 +145,7 @@ A RESTful API for a ride booking platform supporting riders, drivers, and admins
 ## Let's Connect
 
 <p align="center">
-  <i>Building, learning, and growing — one production-ready feature at a time.</i>
+  <i>Building, learning, and growing â€” one production-ready feature at a time.</i>
 </p>
 
 <p align="center">
