@@ -78,6 +78,22 @@ I'm a **Full-Stack Web Developer** focused on building complete applications wit
 
 ---
 
+<!--- statistics --->
+## GitHub Statistics & Analysis
+
+### GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/22d3ee/probirghoshdev" alt="Probir Ghosh's GitHub contribution heatmap" />
+</p>
+
+### GitHub Statistics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=probirghoshdev&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;icon_color=A855F7&amp;text_color=E6EDF3&amp;include_all_commits=false&amp;count_private=false" alt="GitHub statistics" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probirghoshdev&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=E6EDF3" alt="Most used languages" /> |
+| :---: | :---: |
+
+---
+
 <!--- featured projects --->
 ## Featured Projects
 
@@ -112,29 +128,6 @@ A backend for a healthcare management platform, structured around a route–cont
 A RESTful API for a ride booking platform supporting riders, drivers, and admins, with role-based access control and the full ride lifecycle.
 
 [Repository](https://github.com/probirghoshdev/goride-backend) &nbsp;·&nbsp; [Live API](https://a-5-gamma.vercel.app)
-
----
-
-<!--- statistics --->
-## GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=probirghoshdev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probirghoshdev&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages" />
-</p>
-
----
-
-<!--- activity --->
-## Contribution Activity Graph
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/22d3ee/probirghoshdev" alt="Contribution activity over the last year" />
-</p>
-
-<p align="center">
-  <sub>Last 12 months of contribution activity.</sub>
-</p>
 
 ---
 
